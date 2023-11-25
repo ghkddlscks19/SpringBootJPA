@@ -33,8 +33,4 @@ class MemberRepositoryTest {
 
     }
 
-//    @Test
-//    void find() {
-//    }
-
 }
